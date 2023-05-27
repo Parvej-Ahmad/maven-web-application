@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	
-	<name>maven-web-application</name>
+	<name>maven-web-application</name>			
 
 	<description>Maven Web Project for Java Programming Language</description>
 
@@ -22,7 +22,7 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://172.31.39.128:9980/</sonar.host.url>
-                <sonar.login>squ_8a56d9ae00340d7dc23c13b392249bdb12d38c3a</sonar.login>
+                <sonar.login>squ_2fbf524ac86f16462c4f998fc51fb1619645bde5</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
